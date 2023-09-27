@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/mamun/vs-code/um-project-final-part/um-auth-service/logs/winston/successes/.8992ebfdeb998fc6d15cef40638ef97db039c8da-audit.json",
+    "files": [
+        {
+            "date": 1694930960765,
+            "name": "/home/mamun/vs-code/um-project-final-part/um-auth-service/logs/winston/successes/phu-2023-17-09-12-success.log",
+            "hash": "36d23a6e8d5660764de09a8e2a4477a7a99ecba595de02969c5ee31dd8a71ddc"
+        },
+        {
+            "date": 1695795461646,
+            "name": "/home/mamun/vs-code/um-project-final-part/um-auth-service/logs/winston/successes/phu-2023-27-09-12-success.log",
+            "hash": "2726e3a631b1d5119a4af887183f8b8bdf9cb50ab71a4298e354bfbaf33cb671"
+        }
+    ],
+    "hashType": "sha256"
+}

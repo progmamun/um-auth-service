@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/mamun/vs-code/um-project-final-part/university-management-auth-service/logs/winston/successes/.75bb3c8cbc273e22a8f7747b997f997dace7f31c-audit.json",
+    "files": [
+        {
+            "date": 1694840646590,
+            "name": "/home/mamun/vs-code/um-project-final-part/university-management-auth-service/logs/winston/successes/phu-2023-16-09-11-success.log",
+            "hash": "21f2db2bf4e9b030b44c8af96efd0e3b5ad7291e5f43c6adc701dfc71e900099"
+        }
+    ],
+    "hashType": "sha256"
+}
